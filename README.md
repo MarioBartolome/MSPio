@@ -17,6 +17,8 @@ To run it,
 `python3 MSPplotting.py` 
 will open a serial connection to your `/dev/ttyUSB0`. I will be adding some cli arguments to make it easier. 
 
+![mspimu](https://user-images.githubusercontent.com/23175380/43070607-9801f564-8e70-11e8-95bf-dcb0b9819fe3.png)
+
 
 #### Check my motors and comms?
 
