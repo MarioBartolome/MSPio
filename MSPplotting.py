@@ -41,7 +41,7 @@ def update(i):
 
 
 if __name__ == '__main__':
-	ser = MSPio(serial_port='/dev/tty.usbmodem14411')
+	ser = MSPio()
 	if ser.is_open():
 		ani = animation.FuncAnimation(fig, update, interval=20)
 		stream()
